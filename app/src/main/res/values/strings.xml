@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Raining</string>
+
+    <string name="unit_temperature">℃</string>
+
+    <string name="default_image_description">Image</string>
+    <string name="default_temperature">15°</string>
+    <string name="default_min_max_temperature">13℃/20℃</string>
+    <string name="default_weather">小雨</string>
+</resources>

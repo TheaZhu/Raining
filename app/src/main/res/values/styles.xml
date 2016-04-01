@@ -1,0 +1,21 @@
+<resources>
+
+    <style name="Base.AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+    </style>
+
+    <style name="AppTheme" parent="Base.AppTheme">
+        <item name="colorPrimary">@color/grey_800</item>
+        <item name="colorPrimaryDark">@color/grey_900</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+
+    <style name="ShadowText">
+        <item name="android:shadowColor">@color/trans_black</item>
+        <item name="android:shadowDx">0.6</item>
+        <item name="android:shadowDy">0.6</item>
+        <item name="android:shadowRadius">0.6</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>
